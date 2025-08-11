@@ -1,0 +1,11 @@
+{
+  "name": "roblox-redirect",
+  "version": "1.0.0",
+  "description": "Dynamic Roblox deep link redirect for Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "author": "",
+  "license": "MIT"
+}
